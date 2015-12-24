@@ -34,7 +34,7 @@
 						 $("#form-username").focus();
 						 return false;
 					  }
-					  else if(jsonData=='success'){window.location.href="www.baidu.com";}
+					  else if(jsonData=='success'){window.location.href="../D3/index.html";}
 			   });
 		}	
 		
